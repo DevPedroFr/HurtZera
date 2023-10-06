@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-frança-0b3857279/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroow__07/)
 
-[![github](https://github-readme-stats.vercel.app/api/top-langs/?username=HurtZera&show_icons=true&theme=dracula)]
+[![github](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroFr&show_icons=true&theme=dracula)]
 
 ## Tecnologias que uso no meu dia a dia 🖥️
 
